@@ -4,7 +4,7 @@
 #
 Name     : asn1crypto
 Version  : 0.24.0
-Release  : 12
+Release  : 13
 URL      : http://pypi.debian.net/asn1crypto/asn1crypto-0.24.0.tar.gz
 Source0  : http://pypi.debian.net/asn1crypto/asn1crypto-0.24.0.tar.gz
 Summary  : Fast ASN.1 parser and serializer with definitions for private keys, public keys, certificates, CRL, OCSP, CMS, PKCS#3, PKCS#7, PKCS#8, PKCS#12, PKCS#5, X.509 and TSP
