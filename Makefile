@@ -1,5 +1,5 @@
 PKG_NAME := pypi-asn1crypto
-URL = https://files.pythonhosted.org/packages/6b/b4/42f0e52ac2184a8abb31f0a6f98111ceee1aac0b473cee063882436e0e09/asn1crypto-1.4.0.tar.gz
+URL = https://files.pythonhosted.org/packages/a7/ae/1280022d918be3aabd1ca89ecb87714743d1c9e1df5695e302dc05595fe8/asn1crypto-1.5.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
